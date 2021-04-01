@@ -1,1 +1,1 @@
-# HangManStarterCode
+# HangMan
